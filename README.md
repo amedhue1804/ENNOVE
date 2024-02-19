@@ -1,4 +1,3 @@
-# ENNOVE
 # Proyecto ENNOVE
 
 Este es un proyecto increíble que hace cosas asombrosas.
